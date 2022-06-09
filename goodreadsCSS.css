@@ -1,0 +1,12 @@
+.main-div{
+float: left;
+height: 100px;
+width: 60px;  
+background-color: bisque;
+}
+.subdiv-left{
+    float: left;
+}
+.subdiv-right{
+    float: left;
+}
